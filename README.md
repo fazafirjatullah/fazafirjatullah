@@ -34,5 +34,5 @@
 ## 🔗 Portfolio
 
 📁 Explore my projects on [GitHub Portfolio](https://github.com/fazafirjatullah)  
-📄 View my [Resume]([https://docs.google.com/document/d/1eiXq8JWVDEh8Z8hP5HMLw7he3ozlA2WRWQj3SKNup78/edit?tab=t.0])
+📄 View my [Resume](https://docs.google.com/document/d/1eiXq8JWVDEh8Z8hP5HMLw7he3ozlA2WRWQj3SKNup78/edit?tab=t.0)
 
