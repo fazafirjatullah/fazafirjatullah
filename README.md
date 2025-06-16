@@ -16,11 +16,11 @@
 
 ## 🛠️ Skills
 
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black"/>  
-<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>  
-<img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white"/>
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://en.wikipedia.org/wiki/SQL)  
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/doc/)  
+[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)](https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview)  
+[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/learn/articles/what-is-tableau)  
+[![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)](https://support.microsoft.com/en-us/excel)
 
 ---
 
