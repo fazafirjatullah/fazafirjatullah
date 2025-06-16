@@ -1,4 +1,4 @@
-# Hi 👋 My name is Faza Firjatullah Alvi
+# Hi # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Faza Firjatullah Alvi
 
 🎓 **Economics Graduate** from Universitas Brawijaya  
 📊 Passionate about **Data Analysis**, **Business Intelligence**, and **Data Visualization**  
