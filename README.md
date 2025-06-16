@@ -9,7 +9,7 @@
 ## 📚 Summary
 
 - 📘 **Degree**: S.E. in Economics  
-- 💼 **Industry Interest**: Finance, E-commerce, and Strategic Analytics  
+- 🏢 **Experience**: Professional experience in the e-commerce industry and internships in the finance and capital market sectors. Skilled in analyzing business problems through data, supporting decision-making with dashboards, and generating actionable insights.  
 - 📬 You can reach me at [fazaep10@gmail.com](mailto:fazaep10@gmail.com)
 
 ---
