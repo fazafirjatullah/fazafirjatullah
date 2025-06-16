@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 My name is Faza Firjatullah Alvi
 
-<!--
-**fazafirjatullah/fazafirjatullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Economics Graduate** from Universitas Brawijaya  
+📊 Passionate about **Data Analysis**, **Business Intelligence**, and **Data Visualization**  
+💡 Focused on turning data into decisions through real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Summary
+
+- 📘 **Degree**: S.E. in Economics  
+- 💼 **Industry Interest**: Finance, E-commerce, and Strategic Analytics  
+- 📬 You can reach me at [fazaep10@gmail.com](mailto:fazaep10@gmail.com)
+
+---
+
+## 🛠️ Skills
+
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black"/>  
+<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white"/>
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fazafirjatullah)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fazafirjatullah)
+
+---
+
+## 🔗 Portfolio
+
+📁 Explore my projects on [GitHub Portfolio](https://github.com/fazafirjatullah)  
+📄 View my [Resume]([https://docs.google.com/document/d/your-resume-link/edit](https://docs.google.com/document/d/1eiXq8JWVDEh8Z8hP5HMLw7he3ozlA2WRWQj3SKNup78/edit?tab=t.0))
+
